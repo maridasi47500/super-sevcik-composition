@@ -22,6 +22,10 @@
 - doublestop and independence of the fingers bar X - X
 
 - double stop of intervalle (sixth, fifth, fourth)
+- double stop : Bowing-exercises on two
+strings alternately. (quavers)
+Bar by bar and by two bars. same exercice in quick tempo and in different time signature , different rythme (semi quavers)
+- double stop : broken separate, in succession unite
 - 
 - studies of nuance and interpretation (invente nuance, place d'archet, ou coup d'archet)
 - 
@@ -72,3 +76,15 @@
 - ingroups of Number of notes (archet sautillé /détaché)
 
 
+-
+- quick placing of the fingers for the chords, accord poussé, lift the finger, accord tiré, lift the finger.
+ •)Lift the fingers after the
+chord and replace them
+in quickly.( ) The bow re-
+ mains On the strings. Sure -
+ty of the left hand
+- chords and single stop alternatively
+
+- chord of three string : broken chords in D+A chord broken with A+E 
+
+-broken arpeggi in semi quavers with different bowing styles; by means of sautillé le bow is put in motion necessary for the following springing staccato
