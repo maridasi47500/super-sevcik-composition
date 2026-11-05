@@ -38,7 +38,7 @@ Bar by bar and by two bars. same exercice in quick tempo and in different time s
  diminished and augmented intervals and chords
 - 
 - 
-- intervalle avec un coup d'archet (spiccato) en rondes double corde , puis en tremolo répété avec l'intervalle de double cordes en ronde
+- intervalle avec un coup d'archet (spiccato) en rondes double corde avec des croches , et des semi croches puis sans compter le nombre défini de notes en faisant un trille rapide , puis en tremolo répété avec l'intervalle de double cordes en ronde
 - 
 - glissando or shift (glissando yes/no) to the extent of (sur l'étendue d'une/nel diapason ) d'une tierce majeure (intervalle) sur la corde X avec X doigt (legato/spiccato)
 - 
@@ -72,6 +72,8 @@ Bar by bar and by two bars. same exercice in quick tempo and in different time s
 
 - intonation of intervals = tremolo
 
+- to reach the higher tone more casily or reasily, demande avec le premier doigt une quarte en dessus de la note
+
 - 
 - ingroups of Number of notes (archet sautillé /détaché)
 
@@ -87,4 +89,55 @@ ty of the left hand
 
 - chord of three string : broken chords in D+A chord broken with A+E 
 
--broken arpeggi in semi quavers with different bowing styles; by means of sautillé le bow is put in motion necessary for the following springing staccato
+- broken arpeggio in semi quavers with different bowing styles; by means of sautillé le bow is put in motion necessary for the following springing staccato
+- pizzicato left hand simple rythms
+- Bars between two double
+bar lines are to be repea-
+ted several times.
+The bow Crosses two and
+three strings during the
+rests.
+There are positions of
+bowing:the G, D, A and E
+position. ln the G positi-
+on (holdi the violin correctly) the bow is
+parallel
+to the bottom Of the violin,
+the right arm and elbow
+being adequateIyraised.At
+the D, E position
+the bcr* is more inclined by
+150. Crossing from One
+string to the other this an-
+gleof 150 should not be
+made abruptly, but bow
+and elbow aproach gradu -
+ally the desired position. (g4 ^"1/1" (r4^^"SP."\downbow r4 r4))
+- Crossing of the bowdu-
+ring rests and without
+rests.
+- drawn with half bow and whole bow (g2 g4 g4)
+- hopping twice times with on ebowing (g4^"1/4" (g2 g4))
+- hopping once over the string with one bow (g (r4 g4^"1/2" ) r4)
+- Detached with whole bow
+and drawn with half bow (g4 r4 g4 g4)
+- hopping over 2 and 3 strings (e4 r4 g4 r4)
+- hopping onc ein quicker movement on eighths)
+- movement on triplets
+- triplets and eighth alternatively
+
+- The finger for the melody in the group of
+chords should always be
+placed at the beginning of
+the half-bars even Whenthe
+succession of the
+apeggiated notes of chords Varies
+and the respective note is
+tobe resounded later. E.g.:
+- arpeggi on three strings
+- arpeggi on eighth
+- arpeggi on triplets
+- arpeggi on g d a 
+
+- autre consiles : touch the string from the air, the The accent is stro:ger
+by one degree than the respective dynamix sign
